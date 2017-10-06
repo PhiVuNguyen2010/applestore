@@ -10,13 +10,25 @@ class PagesController
     return view('index');
   }
 
-  public function about()
+  public function iphone()
   {
-    return view('about');
+    return view('iphone');
   }
 
-  public function contact()
+  public function ipad()
   {
-    return view('contact');
+    return view('ipad');
+  }
+  public function mac()
+  {
+    return view('mac');
+  }
+  public function tv()
+  {
+    return view('tv');
+  }
+  public function watch()
+  {
+    return view('watch');
   }
 }
