@@ -1,8 +1,10 @@
 <?php
 
 $router->get('', 'PagesController@index');
-$router->get('about', 'PagesController@about');
-$router->get('contact', 'PagesController@contact');
+$router->get('iphone', 'PagesController@iphone');
+$router->get('mac', 'PagesController@mac');
+$router->get('ipad', 'PagesController@ipad');
+$router->get('tv', 'PagesController@tv');
+$router->get('watch', 'PagesController@watch');
 
-$router->get('users', 'UsersController@index');
 $router->post('users', 'UsersController@store');
