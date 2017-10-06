@@ -6,5 +6,3 @@ class Project
 {
 
 }
-
-echo 1;
