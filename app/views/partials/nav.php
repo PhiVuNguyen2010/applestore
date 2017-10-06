@@ -33,22 +33,22 @@
 				  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 				    <ul class="navbar-nav mr-auto">
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+				        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
 				      </li>
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">Mac</a>
+				        <a class="nav-link" href="mac">Mac</a>
 				      </li>
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">iPad</a>
+				        <a class="nav-link" href="ipad">iPad</a>
 				      </li>
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">iPhone</a>
+				        <a class="nav-link" href="iphone">iPhone</a>
 				      </li>
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">Watch</a>
+				        <a class="nav-link" href="watch">Watch</a>
 				      </li>
 				      <li class="nav-item">
-				        <a class="nav-link" href="#">TV</a>
+				        <a class="nav-link" href="tv">TV</a>
 				      </li>
 				      <li class="nav-item">
 				        <a class="nav-link" href="#">Music</a>
